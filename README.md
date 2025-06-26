@@ -38,6 +38,8 @@ This project is a **Movie Recommendation app** built with:
 3. Run the app:
    ```bash
    streamlit run streamlit_app.py
+## 📂 Dataset
+This app requires `ratings_df.csv` (~667 MB) and `svd_model.pkl` (~690MB),their drive links shall be updated asap.
 
 
 
